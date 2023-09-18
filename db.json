@@ -3,36 +3,36 @@
         "status": "released",
         "title": "The Shawshank Redemption",
         "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-		"img_url": "https://flxt.tmsimg.com/assets/p15987_p_v8_ai.jpg"
+	"img_url": "https://flxt.tmsimg.com/assets/p15987_p_v8_ai.jpg"
     },
     {
         "status": "released",
         "title": "The Godfather",
         "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
-		"img_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+	"img_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
     },
     {
         "status": "released",
         "title": "The Godfather: Part II",
         "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.",
-		"img_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+	"img_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
     },
 	{
         "status": "to_be_released",
         "title": "Guardians of the Galaxy Vol. 3",
         "description": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
-		"img_url": "https://m.media-amazon.com/images/M/MV5BNmVhN2IyMTUtZTg3ZS00YWYxLTg3OTItMTFlNGM0MDYyNWI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+	"img_url": "https://m.media-amazon.com/images/M/MV5BNmVhN2IyMTUtZTg3ZS00YWYxLTg3OTItMTFlNGM0MDYyNWI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
     },
     {
         "status": "released",
         "title": "The Dark Knight",
         "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, the caped crusader must come to terms with one of the greatest psychological tests of his ability to fight injustice.",
-		"img_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+	"img_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
     },
     {
         "status": "released",
         "title": "Pulp Fiction",
         "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-		"img_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+	"img_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
     }
 ]
